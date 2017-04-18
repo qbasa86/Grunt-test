@@ -13,12 +13,14 @@ header {
   header .left {
     width: 50%;
     background: #59ff40;
+    height: 100%;
     float: left; }
     header .left h1 {
       color: #1c16ab; }
   header .right {
     width: 50%;
     background: #195be1;
+    height: 100%;
     float: left; }
     header .right h1 {
       color: #eee; }
